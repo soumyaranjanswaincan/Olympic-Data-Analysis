@@ -48,3 +48,4 @@ matplotlib.pyplot, pandas, geopandas, plotly.express,numpy, request, time, scipy
 
 ##### Project execution - Just add a snapshot of the project board - to show how you organized this project.
 
+![Screenshot_project](https://github.com/soumyaranjanswaincan/project1/assets/82301665/7faa3ca8-d4d1-40b2-9cbf-6e904a16371c)
