@@ -1,3 +1,9 @@
+
+<img width="779" alt="Logo" src="https://github.com/soumyaranjanswaincan/project1/assets/159960361/ad26a9a0-387c-42a0-826e-ffd35cf2af13">
+
+
+
+
 testing branch
 project title: analysis of Olympic Games
 Main question: What are the key factors influencing Olympic medal outcomes?
