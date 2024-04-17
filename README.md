@@ -29,6 +29,7 @@ Kaggle: 120 years of Olympic history: athletes and results
 - Age, weight and height have some impact to the Olympic performance
 
   <img width="961" alt="Screen Shot 2024-04-17 at 5 27 11 PM" src="https://github.com/soumyaranjanswaincan/project1/assets/159960361/665d0567-1645-4f0a-b8da-7f3f67ae7fe9">
+![height_vs_age](https://github.com/soumyaranjanswaincan/project1/assets/82301665/e16ad691-3914-4f53-ab2f-e33b5cd0bf8e)
 
 
 ##### Our code:
