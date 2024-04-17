@@ -27,6 +27,9 @@ Kaggle: 120 years of Olympic history: athletes and results
 - Some countries are better at winter games 
 - Age, weight and height have some impact to the Olympic performance
 
+  <img width="961" alt="Screen Shot 2024-04-17 at 5 27 11 PM" src="https://github.com/soumyaranjanswaincan/project1/assets/159960361/665d0567-1645-4f0a-b8da-7f3f67ae7fe9">
+
+
 ##### Our code:
 It can be divided into 2 parts: 
 1. The data preparation code: Data_cleanup.ipynb
