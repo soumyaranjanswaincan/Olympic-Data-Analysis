@@ -5,7 +5,7 @@
 
 
 
-## Project title: Analysis of Olympic Games
+# Project title: Analysis of Olympic Games
 
 ## Main question: What are the key factors influencing Olympic medal outcomes?
 
@@ -45,4 +45,4 @@ matplotlib.pyplot, pandas, geopandas, plotly.express,numpy, request, time, scipy
 - Medal counts: The data from Kaggle is based on the participation of each athlete. For a group compeititon, the data has entry for each athelete who participates the game. As a result, the medal counts based on each country is overstated if it wins medals for group compeitions.  
 
 
-Project execution - Just add a snapshot of the project board - to show how you organized this project.
+##### Project execution - Just add a snapshot of the project board - to show how you organized this project.
