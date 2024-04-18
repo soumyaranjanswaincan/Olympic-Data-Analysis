@@ -32,6 +32,9 @@ Kaggle: 120 years of Olympic history: athletes and results
 ![height_vs_age](https://github.com/soumyaranjanswaincan/project1/assets/82301665/e16ad691-3914-4f53-ab2f-e33b5cd0bf8e)
 ![weight_vs_age](https://github.com/soumyaranjanswaincan/project1/assets/82301665/80657f23-7038-40f0-abc2-130faf1a115d)
 
+##### Gold medal distribution
+![Geopandas_plot](https://github.com/soumyaranjanswaincan/project1/assets/82301665/266bdb5b-b6ed-422c-a568-ca2c15de1c9f)
+
 
 ##### Our code:
 It can be divided into 2 parts: 
